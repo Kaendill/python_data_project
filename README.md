@@ -1,12 +1,12 @@
 # Analysis
 ## 1. What are the most in-demand skills for the 3 most popular data jobs in Nigeria?
 
-to achieve this, I filtered out the most popular data job roles from the dataset, for the particular country in focus, which is Nigeria, and then, obtained the top skills in-demand for these roles.
-This query highlights the most popular job titles and the top skills in demand for these job roles, for anyone focusing on any of these job roles, this query gives an insight on what skills emphasis should be made on.
+to achieve this, I filtered out the most popular data job roles from the dataset, for the particular country in focus, which is Nigeria, and then, obtained the top skills in demand for these roles.
+This query highlights the most popular job titles and the top skills in demand for these job roles, for anyone focusing on any of these job roles, this query gives an insight into what skills emphasis should be placed on.
 
 
 Take a look at my detailed notebook here: 
-[2_skills_demand.ipynb](3_Project\2_skills_demand.ipynb)
+[2_skills_demand.ipynb](C:\Users\ekene\python_data_project\python_data_project\3_Project\2_skills_demand.ipynb)
 
 
 ## Visualize my data
