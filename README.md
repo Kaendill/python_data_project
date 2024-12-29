@@ -6,7 +6,7 @@ This query highlights the most popular job titles and the top skills in demand f
 
 
 Take a look at my detailed notebook here: 
-[2_skills_demand.ipynb](C:\Users\ekene\python_data_project\python_data_project\3_Project\2_skills_demand.ipynb)
+[2_skills_demand.ipynb](3_Project/2_skills_demand.ipynb)
 
 
 ## Visualize my data
