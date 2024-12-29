@@ -23,7 +23,7 @@ plt.show()
 ```    
 ### Results
 
-![Visualization of in-demand skills for top3 data roles in Nigeria](3_Project\image\skills_demand.png)
+![Visualization of in-demand skills for top3 data roles in Nigeria](3_Project/image/skills_demand.png)
 
 ### Top Insights
 - Though their importance varies, Python and SQL are central across roles and critical for all three roles.
