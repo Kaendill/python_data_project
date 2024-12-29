@@ -1,7 +1,7 @@
 # Analysis
-## 1. In Nigeria, what are the most in-demand skills for the 3 most popular data jobs?
+## 1. What are the most in-demand skills for the 3 most popular data jobs in Nigeria?
 
-to achieve this, i filtered out the most popular data job roles from the dataset, for the particular country in focus, which is Nigeria, then, obtained the top skills in-demand for these roles.
+to achieve this, I filtered out the most popular data job roles from the dataset, for the particular country in focus, which is Nigeria, and then, obtained the top skills in-demand for these roles.
 This query highlights the most popular job titles and the top skills in demand for these job roles, for anyone focusing on any of these job roles, this query gives an insight on what skills emphasis should be made on.
 
 
@@ -26,7 +26,7 @@ plt.show()
 ![Visualization of in-demand skills for top3 data roles in Nigeria](3_Project\image\skills_demand.png)
 
 ### Top Insights
-- Python and SQL are central across roles and also critical for all three roles, though their importance varies.
-- Data Analysts aligns with visualization tools (Tableau, Power BI).  Learn Excel, Tableau, and Power BI for reporting.
+- Though their importance varies, Python and SQL are central across roles and critical for all three roles.
+- Data Analysts align with visualization tools (Tableau, Power BI).  Learn Excel, Tableau, and Power BI for reporting.
 - Data Engineers focus on cloud and orchestration tools (AWS, Kafka, Airflow). Dive into cloud platforms and workflow automation.
-- Data Scientists emphasize statistical and data modeling tools (R, SAS). Gain proficiency in R, statistical modeling, and machine learning.
+- Data Scientists emphasize statistical and data modelling tools (R, SAS). Gain proficiency in R, statistical modelling, and machine learning.
