@@ -54,12 +54,12 @@ plt.show()
 ```
 ### Results
 
-![Trend of Top skills For Data Analyst Job Role in Nigeria 2024](3_Project\image\DA_skills_trend 2024.png)
+![Trend of Top skills For Data Analyst Job Role in Nigeria 2024](3_Project/image/DA_skills_trend 2024.png)
 
 *Bar chart showing a graphic visualization of the trends of top skills for Data Analysts in 2024.*
 
 ### Insights
- - Excel and SQL Skills are a Must have. Candidates aspiring  get  Data Analyst roles in Nigeria should prioritize mastering Excel and SQL as foundational skills.
+ - Excel and SQL Skills are a must-have. Candidates aspiring to  get  Data Analyst roles in Nigeria should prioritize mastering Excel and SQL as foundational skills.
 
 - SQL shows consistent demand throughout the year with minor fluctuations and also experiences a significant rise around June, suggesting project-based or seasonal demand.
 
