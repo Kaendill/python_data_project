@@ -54,7 +54,7 @@ plt.show()
 ```
 ### Results
 
-![Trend of Top skills For Data Analyst Job Role in Nigeria 2024](3_Project/image/DA_skills_trend 2024.png)
+![Trend of Top skills For Data Analyst Job Role in Nigeria 2024](3_Project\image\trend.png)
 
 *Bar chart showing a graphic visualization of the trends of top skills for Data Analysts in 2024.*
 
