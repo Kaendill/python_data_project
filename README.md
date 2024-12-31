@@ -30,3 +30,39 @@ plt.show()
 - Data Analysts align with visualization tools (Tableau, Power BI).  Learn Excel, Tableau, and Power BI for reporting.
 - Data Engineers focus on cloud and orchestration tools (AWS, Kafka, Airflow). Dive into cloud platforms and workflow automation.
 - Data Scientists emphasize statistical and data modelling tools (R, SAS). Gain proficiency in R, statistical modelling, and machine learning.
+
+
+## 2. How Are In-Demand Skills trending for Data Analysts?
+
+### Visualize My Data
+
+```python
+
+sns.set_theme(style= 'ticks')
+df_plot= DA_percent.iloc[:, :5]
+sns.lineplot(df_plot, palette= 'tab10', dashes= False, markers= 'o')
+sns.despine()
+plt.legend().remove()
+from matplotlib.ticker import PercentFormatter
+ax= plt.gca()
+ax.yaxis.set_major_formatter(PercentFormatter(xmax= 100))
+for i in range(5):
+    plt.text(5, df_plot.iloc[5, i], DA_percent.columns[i])
+
+plt.show()
+
+```
+### Results
+
+![Trend of Top skills For Data Analyst Job Role in Nigeria 2024](3_Project\image\DA_skills_trend 2024.png)
+
+*Bar chart showing a graphic visualization of the trends of top skills for Data Analysts in 2024.*
+
+### Insights
+ - Excel and SQL Skills are a Must have. Candidates aspiring  get  Data Analyst roles in Nigeria should prioritize mastering Excel and SQL as foundational skills.
+
+- SQL shows consistent demand throughout the year with minor fluctuations and also experiences a significant rise around June, suggesting project-based or seasonal demand.
+
+- Python sees steady relevance but does not dominate as much as Excel or SQL, While not the highest in demand, Python remains crucial for more advanced analysis tasks.
+
+-  Organizations might demand specific skills like Tableau during certain periods; candidates should leverage such trends to upskill at the right time.
