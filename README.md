@@ -204,7 +204,7 @@ plt.show()
 
 ![Optimal Skills For Data Analysts in The Uk](3_Project/image/Optimal skills.png)
 
-*Scatterplot showing optimal skills for Data Analysts in the Uk*
+*Scatterplot showing optimal skills for Data Analysts in the UK*
 
 ### Insights
 - `SQL` and `Excel` dominate, appearing in over 40% of data analyst job postings. These skills offer strong alignment with employer demands and median salaries near ~$100K, making them essential for aspiring analysts. 
