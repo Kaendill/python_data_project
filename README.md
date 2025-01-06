@@ -202,7 +202,7 @@ plt.show()
 
 #### Results
 
-[Optimal Skills For Data Analysts in The Uk]()
+[Optimal Skills For Data Analysts in The Uk](3_Project/image/Optimal skills.png)
 
 *Scatterplot showing optimal skills for Data Analysts in the Uk*
 
