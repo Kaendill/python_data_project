@@ -124,6 +124,7 @@ plt.show()
 ### Insights
 - Senior Data Scientists lead with the highest median salaries and widest range, reaching up to ~$300K. Senior positions (Data Scientist, Data Engineer, Data Analyst) generally have a broader salary range and higher outliers compared to non-senior roles.
 - Entry-Level Roles: Data Analysts and Data Engineers have more compact salary ranges, typically peaking below ~$150K. Multiple high outliers are seen in senior engineering roles, indicating some very high-paying jobs in specific cases.
+- Due to scarcity of data for the Senior Data Engineer and Analyst roles respectively, the boxplots appears incomplete.
 
 
 ### Highest Paid and Most Demanded Skills For Data Analysts In Nigeria
