@@ -49,7 +49,7 @@ plt.show()
 ```    
 ### Results
 
-[Visualization of in-demand skills for Top 3 data roles in The Uk]()
+![Visualization of in-demand skills for Top 3 data roles in The Uk]()
 ### Top Insights
 - ``SQL`` and `Python` are critical across all roles, with `SQL` dominating for Data Analysts (43%) and Engineers (60%), while Python leads for Data Scientists (69%).
 - `Excel`, `Power BI`, and `Tableau` are key for Data Analysts, highlighting the focus on data visualization and reporting.
@@ -202,7 +202,7 @@ plt.show()
 
 #### Results
 
-[Optimal Skills For Data Analysts in The Uk]()
+[Optimal Skills For Data Analysts in The Uk](3_Project\image\Optimal skills.png)
 
 *Scatterplot showing optimal skills for Data Analysts in the Uk*
 
