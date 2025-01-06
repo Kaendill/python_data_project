@@ -156,7 +156,7 @@ plt.show
 ```
 #### Results
 
-![Top Paying and In-demand skills For Data Analyst](3_Project\image\Top_paying_in_demand_skills.png)
+![Top Paying and In-demand skills For Data Analyst](3_Project/image/Top_paying_in_demand_skills.png)
 
 *Bar Charts visualizing Top 10 Paid skills and Most In-Demand Skills For Data Analyst.*
 
