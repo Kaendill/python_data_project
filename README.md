@@ -49,7 +49,7 @@ plt.show()
 ```    
 ### Results
 
-![Visualization of in-demand skills for Top 3 data roles in The Uk]()
+![Visualization of in-demand skills for Top 3 data roles in The Uk](3_Project\image\chances_of_skills.png)
 ### Top Insights
 - ``SQL`` and `Python` are critical across all roles, with `SQL` dominating for Data Analysts (43%) and Engineers (60%), while Python leads for Data Scientists (69%).
 - `Excel`, `Power BI`, and `Tableau` are key for Data Analysts, highlighting the focus on data visualization and reporting.
@@ -87,7 +87,7 @@ plt.show()
 ```
 ### Results
 
-[Trend of Top Skills For Data Analyst Job Role in The Uk]()
+![Trend of Top Skills For Data Analyst Job Role in The Uk](3_Project\image\Trend_of_top_skills.png)
 
 *line chart showing a graphic visualization of the trends of top skills for Data Analysts in 2024.*
 
@@ -117,7 +117,7 @@ plt.show()
 ```
 #### Results
 
-![Salary Distribution For Top 5 Data Roles In The UK](3_Project/image/Salary Distribution.png)
+![Salary Distribution For Top 5 Data Roles In The UK](3_Project\image\Salary_Distribution.png)
 
 *Box plot Showing The Distribution Of Salaries For the Top 5 Data Roles In The UK*
 
@@ -156,7 +156,7 @@ plt.show
 ```
 #### Results
 
-[Top Paying and In-demand skills For Data Analyst]()
+![Top Paying and In-demand skills For Data Analyst](3_Project\image\Top_paying_in_demand_skills.png)
 
 *Bar Charts visualizing Top 10 Paid skills and Most In-Demand Skills For Data Analyst.*
 
@@ -202,7 +202,7 @@ plt.show()
 
 #### Results
 
-[Optimal Skills For Data Analysts in The Uk]()
+![Optimal Skills For Data Analysts in The Uk](3_Project/image/Optimal_skills.png)
 
 *Scatterplot showing optimal skills for Data Analysts in the UK*
 
