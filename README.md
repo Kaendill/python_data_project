@@ -117,7 +117,7 @@ plt.show()
 ```
 #### Results
 
-[Salary Distribution For Top 5 Data Roles In The UK](3_Project/image/Salary Distribution.png)
+![Salary Distribution For Top 5 Data Roles In The UK](3_Project/image/Salary Distribution.png)
 
 *Box plot Showing The Distribution Of Salaries For the Top 5 Data Roles In The UK*
 
@@ -202,7 +202,7 @@ plt.show()
 
 #### Results
 
-[Optimal Skills For Data Analysts in The Uk](3_Project/image/Optimal skills.png)
+![Optimal Skills For Data Analysts in The Uk](3_Project/image/Optimal skills.png)
 
 *Scatterplot showing optimal skills for Data Analysts in the Uk*
 
@@ -219,7 +219,7 @@ plt.show()
 - Also i Understood salary distributions, in-demand skills, and trends for data roles across different regions. And most importantly,  enhanced my ability to handle end-to-end data projects, from sourcing datasets to deriving actionable insights.
 
 # Insights
-- This project Identified the most in-demand skills (`SQL`, `Python`, `Power BI`) and their significance in different roles, highlighting the alignment between skillsets and salary expectations.
+- This project Identified the most in-demand skills (`SQL`, `Python`, `Power BI`) and their significance in different roles, highlighting the alignment between skill and salary expectations.
 - It also revealed clear salary distributions and disparities across various the top 3 data roles like Data Analyst, Data Scientist, and Data Engineer, emphasizing the earning potential in senior positions and technical roles.
 
 # Conclusion
