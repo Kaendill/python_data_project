@@ -117,9 +117,9 @@ plt.show()
 ```
 #### Results
 
-[Salary Distribution For Top 5 Data Roles In The UK]()
+[Salary Distribution For Top 5 Data Roles In The UK](3_Project/image/Salary Distribution.png)
 
-*Box plot Showing The Distribution Of Salaries For Top 5 Data Roles In The UK*
+*Box plot Showing The Distribution Of Salaries For the Top 5 Data Roles In The UK*
 
 ### Insights
 - Senior Data Scientists lead with the highest median salaries and widest range, reaching up to ~$300K. Senior positions (Data Scientist, Data Engineer, Data Analyst) generally have a broader salary range and higher outliers compared to non-senior roles.
