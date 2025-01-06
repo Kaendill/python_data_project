@@ -117,7 +117,7 @@ plt.show()
 ```
 #### Results
 
-![Salary Distribution For Top 5 Data Roles In The UK](3_Project\image\Salary_Distribution.png)
+![Salary Distribution For Top 5 Data Roles In The UK](3_Project/image/Salary_Distribution.png)
 
 *Box plot Showing The Distribution Of Salaries For the Top 5 Data Roles In The UK*
 
