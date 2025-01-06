@@ -1,20 +1,20 @@
 # Project Overview
 
 ### Objective:
-The goal of this project is to analyze data analytics roles and skills, focusing on salary trends, in-demand expertise, and their alignment with industry requirements. By synthesizing insights, this project aims to guide professionals in optimizing their skill sets to enhance career prospects and earning potential.
+This project analyzes data analytics roles and skills, focusing on salary trends, in-demand expertise, and alignment with industry requirements. By synthesizing insights, this project aims to guide professionals in optimizing their skill sets to enhance career prospects and earning potential.
 
 
 # Questions Asked
 
-Focusing on the UK (size and availabilty in the dataset)
-1.  What are the Most In-demand skills for top 3 data roles?
+Focusing on the UK (size and availability in the dataset)
+1.  What are the Most In-demand skills for the top 3 data roles?
 2. How are these in-demand skills trending for Data Analysts?
-3. How jobs and skills pay for Data Analyst roles?
+3. How do jobs and skills pay for Data Analyst roles?
 4. What is(are) the  most Optimal skill(s) to learn for Data Analysis (Based on High Demand and High pay)?
 
 # Tools Used
 
-- Data Source : Insights were derived using datasets from Luke Barousse's Hugging Face repository, which consisted of columns such as `job_title`, `salary_year_avg`, `job_skills`, among others.
+- Data Source: Insights were derived using datasets from Luke Barousse's Hugging Face repository, which consisted of columns such as `job_title`, `salary_year_avg`, `job_skills`, among others.
 - Jupyter Notebook: Served as the platform for running Python scripts, visualizing outputs, and documenting insights seamlessly.
 - Python Libraries for Data Analysis and Visualization, these include:
 - `Pandas`: Used for data manipulation, cleaning, and analysis to handle datasets efficiently.
@@ -29,7 +29,7 @@ This query highlights the most popular job titles and the top skills in demand f
 
 
 Take a look at my detailed notebook here: 
-[2_skills_demand.ipynb](3_Project\2_skills_demand.ipynb)
+[2_skills_demand.ipynb](3_Project/2_skills_demand.ipynb)
 ## Visualize my data
 
 ``` python
@@ -56,7 +56,7 @@ plt.show()
 - Cloud Skills (`AWS`, `Azure`) are vital for Data Engineers and Data Scientists, reflecting the demand for big data and cloud computing expertise.
 
 
-## 2. How Are In-Demand Skills trending for Data Analysts?
+## 2. How Are In-Demand Skills Trending for Data Analysts?
 
 ### Visualize My Data
 
@@ -87,7 +87,7 @@ plt.show()
 ```
 ### Results
 
-[Trend of Top skills For Data Analyst Job Role in The Uk]()
+[Trend of Top Skills For Data Analyst Job Role in The Uk]()
 
 *line chart showing a graphic visualization of the trends of top skills for Data Analysts in 2024.*
 
@@ -117,9 +117,9 @@ plt.show()
 ```
 #### Results
 
-[Salary Distribution For Top 5 Data Roles In The UK]()
+![Salary Distribution For Top 5 Data Roles In The UK](3_Project/image/Salary Distribution.png)
 
-*Box plot Showing The Distribution Of Salaries For Top 5 Data Roles In The UK*
+*Box plot Showing The Distribution Of Salaries For the Top 5 Data Roles In The UK*
 
 ### Insights
 - Senior Data Scientists lead with the highest median salaries and widest range, reaching up to ~$300K. Senior positions (Data Scientist, Data Engineer, Data Analyst) generally have a broader salary range and higher outliers compared to non-senior roles.
@@ -202,24 +202,24 @@ plt.show()
 
 #### Results
 
-[Optimal Skills For Data Analysts in The Uk](3_Project\image\Optimal skills.png)
+[Optimal Skills For Data Analysts in The Uk]()
 
-*Scatterplot showing optimal skills for Data Analysts in the Uk*
+*Scatterplot showing optimal skills for Data Analysts in the UK*
 
 ### Insights
 - `SQL` and `Excel` dominate, appearing in over 40% of data analyst job postings. These skills offer strong alignment with employer demands and median salaries near ~$100K, making them essential for aspiring analysts. 
-- `Python` follows closely, featured in ~30% of roles with a median salary around ~$100K, emphasizing its importance for data manipulation and analysis.
+- `Python` follows closely, featured in ~30% of roles with a median salary of around ~$100K, emphasizing its importance for data manipulation and analysis.
 - `SQL Server` and `Flow` are associated with the highest median salaries (~$120K–$130K) but appear in fewer than 10% of job postings. These skills may cater to specialized roles or industries.
 `Tableau` offers a balance between demand (20%) and salary ($100K), making it a valuable visualization tool.
-- By category, Databases are  High-paying and in-demand such as `SQL`, `SQL Server`, Programming such as `Python` remains crucial for technical analysis. Analyst Tools like `Tableau` and `Power BI` strike a balance between utility and earnings.
+- By category, Databases are  High-paying and in-demand such as `SQL`, `SQL Server`, and Programming such as `Python` remains crucial for technical analysis. Analyst Tools like `Tableau` and `Power BI` strike a balance between utility and earnings.
 
-# What i learnt
+# What I learnt
 
-- During the course of this project, i have gained experience in cleaning, processing, and analyzing datasets using `Python` libraries like `Pandas` and `matplotlib`, which i learned to create meaningful visualizations some of which include boxplots, bar charts, scatter plots along with `Seaborn` to interpret data trends.
+- During this project, I have gained experience in cleaning, processing, and analyzing datasets using `Python` libraries like `Pandas` and `matplotlib`, which I learned to create meaningful visualizations some of which include boxplots, bar charts, scatter plots along with `Seaborn` to interpret data trends.
 - Also i Understood salary distributions, in-demand skills, and trends for data roles across different regions. And most importantly,  enhanced my ability to handle end-to-end data projects, from sourcing datasets to deriving actionable insights.
 
 # Insights
-- This project Identified the most in-demand skills (`SQL`, `Python`, `Power BI`) and their significance in different roles, highlighting the alignment between skillsets and salary expectations.
+- This project Identified the most in-demand skills (`SQL`, `Python`, `Power BI`) and their significance in different roles, highlighting the alignment between skill and salary expectations.
 - It also revealed clear salary distributions and disparities across various the top 3 data roles like Data Analyst, Data Scientist, and Data Engineer, emphasizing the earning potential in senior positions and technical roles.
 
 # Conclusion
