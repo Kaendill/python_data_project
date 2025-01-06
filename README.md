@@ -87,7 +87,7 @@ plt.show()
 ```
 ### Results
 
-![Trend of Top Skills For Data Analyst Job Role in The Uk](3_Project\image\Trend_of_top_skills.png)
+![Trend of Top Skills For Data Analyst Job Role in The Uk](3_Project/image/Trend_of_top_skills.png)
 
 *line chart showing a graphic visualization of the trends of top skills for Data Analysts in 2024.*
 
