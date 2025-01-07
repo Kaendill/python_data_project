@@ -223,6 +223,17 @@ plt.show()
 - This project Identified the most in-demand skills (`SQL`, `Python`, `Power BI`) and their significance in different roles, highlighting the alignment between skill and salary expectations.
 - It also revealed clear salary distributions and disparities across various the top 3 data roles like Data Analyst, Data Scientist, and Data Engineer, emphasizing the earning potential in senior positions and technical roles.
 
+# Challenges Encountered
+
+While it was an insightful and fascinating project, it wasnt without some challenges, some of which i encountered include
+- Limited availability of reliable and comprehensive data in this dataset for The UK (about 70k jobs) compared to the US (about 200k) might have constrained the analysis.
+
+- Handling missing values, inconsistent formats (date), and outliers (in the salary column) in the data was time-consuming.
+
+- Some skills or roles did not have sufficient representation in the dataset, making it difficult to draw meaningful conclusions (this was visible in the boxplot).
+
+
+
 # Conclusion
 
 This project highlights the salary trends, skill demands, and optimal career paths for data-related roles in the UK. By analyzing job postings and salary distributions, it provides actionable insights for aspiring professionals to align their skills with industry demands. The findings emphasize the importance of tools like `SQL`, `Python`, and `Excel`, along with data visualization and cloud platforms, for career growth and higher earning potential. 
